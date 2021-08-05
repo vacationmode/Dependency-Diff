@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.vacationmode.dependencydiff.services
 
+import com.github.vacationmode.dependencydiff.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
